@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "adi": "emel",
+        "soyadi": "şahin",
+        "telefon1": "021556",
+        "telefon2": "587813",
+        "dogum": "12.09.1997",
+        "sirket_ismi": "SUNEXPRESS0000",
+        "sirket_adresi": "ANTALYA000099999",
+        "sirket_email": "sunexpress1@sunexpres.com",
+        "sirket_gsm": "90232899898"
+    },
+    {
+        "id": 2,
+        "adi": "emel",
+        "soyadi": "şahin",
+        "telefon1": "021556",
+        "telefon2": "587813",
+        "dogum": "12.09.1997",
+        "sirket_ismi": "KOZA TUR000000",
+        "sirket_adresi": "ANTALYA0007777777",
+        "sirket_email": "muhasebe@kozatur.com",
+        "sirket_gsm": "902324567896666666"
+    }
+]

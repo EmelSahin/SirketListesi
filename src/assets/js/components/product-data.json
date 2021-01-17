@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "adi": "EMiR",
+        "soyadi": "TUNÇ",
+        "telefon1": "0214755215556",
+        "telefon2": "5875785813",
+        "dogum": "10.01.1987",
+        "sirket_ismi": "SUNEXPRESS0000",
+        "sirket_adresi": "ANTALYA000099999",
+        "sirket_email": "sunexpress1@sunexpres.com",
+        "sirket_gsm": "90232899898"
+    },
+    {
+        "id": 2,
+        "adi": "EMEL",
+        "soyadi": "ŞAHİN",
+        "telefon1": "02158522556",
+        "telefon2": "587475145813",
+        "dogum": "12.09.1997",
+        "sirket_ismi": "KOZA TUR000000",
+        "sirket_adresi": "ANTALYA0007777777",
+        "sirket_email": "muhasebe@kozatur.com",
+        "sirket_gsm": "902324567896666666"
+    }
+]
